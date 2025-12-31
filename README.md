@@ -4,7 +4,7 @@ This repository showcases an interactive and insightful Social Media Campaign Pe
 
 The objective of this project was to analyze how digital advertising campaigns perform across various social media platforms using simulated ad campaign data. The project evaluates impressions, clicks, CTR (%), and ROI across platforms like Facebook, Instagram, Pinterest, and Twitter, delivering actionable insights through dynamic visuals, slicers and converts raw metrics into meaningful, decision-ready insights.
 
-
+🎥 **Dashboard Walkthrough:** [Click here to watch the video](https://1drv.ms/v/c/761C0EAFC47990B3/IQADZn6FYRmiQowBH0VTKRicAS_AZT_zxUuPCPfsJm8dqtU?e=w40R9y)
 
 📌 ***"Project Objective"***
 
