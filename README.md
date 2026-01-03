@@ -4,9 +4,9 @@ This repository showcases an interactive and insightful Social Media Campaign Pe
 
 The objective of this project was to analyze how digital advertising campaigns perform across various social media platforms using simulated ad campaign data. The project evaluates impressions, clicks, CTR (%), and ROI across platforms like Facebook, Instagram, Pinterest, and Twitter, delivering actionable insights through dynamic visuals, slicers and converts raw metrics into meaningful, decision-ready insights.
 
-🎥 **Dashboard Walkthrough:** [Click here to watch the video](https://1drv.ms/v/c/761C0EAFC47990B3/IQADZn6FYRmiQowBH0VTKRicAS_AZT_zxUuPCPfsJm8dqtU?e=w40R9y)
+## 🎥 **Dashboard Walkthrough:** [Click here to watch the video](https://1drv.ms/v/c/761C0EAFC47990B3/IQADZn6FYRmiQowBH0VTKRicAS_AZT_zxUuPCPfsJm8dqtU?e=w40R9y)
 
-📌 ***"Project Objective"***
+## 📌 ***"Project Objective"***
 
 • Track and evaluate ad campaign performance
 
@@ -16,7 +16,7 @@ The objective of this project was to analyze how digital advertising campaigns p
 
 • Build a dynamic and interactive dashboard that helps stakeholders understand what’s working and what’s not
 
-📂 ***"Dataset Information"***
+## 📈 ***"Dataset Information"***
 
 Data Type: Simulated / Exported Social Media Ad Data
 
@@ -32,7 +32,7 @@ Platforms Covered:
 
 Data includes campaign-level performance, audience demographics, and engagement metrics.
 
-📊 ***"Dashboard Features & Analysis"***
+## 📊 ***"Dashboard Features & Analysis"***
 
 🔹 Key Performance Indicators (KPIs):
 
@@ -80,7 +80,7 @@ Dynamic slicers for -
 
 All visuals update automatically based on selections
 
-🔍 ***"Key Insights"***
+## 🔍 ***"Key Insights"***
 
 • Facebook and Instagram generate higher reach and clicks compared to other platforms.
 
@@ -90,7 +90,7 @@ All visuals update automatically based on selections
 
 • Campaign goals significantly influence CTR and ROI outcomes.
 
-🔍 ***"Real-Life Applications"***
+## 🧩 ***"Real-Life Applications"***
 
 • Helps marketers evaluate which social media platforms deliver the best ROI.
 
@@ -102,7 +102,7 @@ All visuals update automatically based on selections
 
 • Assists stakeholders in making informed marketing decisions using interactive dashboards.
 
-📈 ***"Key Learnings"***
+## 🎓 ***"Key Learnings"***
 
 • Practical understanding of how Impressions, Clicks, CTR, and ROI are connected
 
@@ -112,7 +112,7 @@ All visuals update automatically based on selections
 
 • Transforming raw data into actionable marketing insights
 
-🛠 ***"Tools & Technologies Used"***
+## 🛠 ***"Tools & Technologies Used"***
 
 • Power BI – Data modeling, DAX measures, and dashboard creation
 
@@ -120,11 +120,17 @@ All visuals update automatically based on selections
 
 • GitHub – Project documentation and version control
 
-🎯 ***"Conclusion"***
+## 🎯 ***"Conclusion"***
 
 This project helped strengthen my skills in marketing analytics, data visualization, and storytelling with data.
 Rather than just creating charts, the focus was on building a dashboard that supports data-driven decision-making.
 
-🙌 ***"Acknowledgement"***
+## 🙌 ***"Acknowledgement"***
 
 Special thanks to Future Interns for providing this learning opportunity and hands-on experience in real-world analytics scenarios.
+
+## 🔗 ***"Contact Information"***
+
+Email Id: bhavikapoor07@gmail.com
+
+LinkedIn Id: https://www.linkedin.com/in/bhavi-kapoor-aiml
